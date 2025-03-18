@@ -1,7 +1,9 @@
 # Shopping Trends Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-This project aims to analyze **shopping trends** using **Exploratory Data Analysis (EDA)** techniques. By exploring consumer behavior, purchasing patterns, and market trends, we can gain valuable insights into the evolving retail landscape.
+This project conducts an in-depth analysis of shopping trends using Exploratory Data Analysis (EDA) techniques to uncover valuable insights into consumer behavior, purchasing patterns, and evolving market trends. By leveraging historical shopping data, the analysis identifies seasonal shopping trends, peak sales periods, and shifts in consumer preferences over time.
+
+The study also examines the most popular product categories, helping businesses understand which items drive the highest demand. Additionally, the analysis compares online vs. offline shopping habits, highlighting key differences in purchasing behavior, preferred payment methods, and customer demographics. By investigating the impact of factors like discounts, promotions, and payment methods, the study provides actionable insights for retailers and e-commerce platforms to optimize their strategies and enhance customer experiences.
 
 ## 📂 Dataset Information
 - **Dataset Used:** Online & Offline Shopping Trends Dataset
